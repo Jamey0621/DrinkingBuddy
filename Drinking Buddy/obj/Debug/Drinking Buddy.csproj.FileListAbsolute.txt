@@ -1,0 +1,2 @@
+C:\Users\Jamey\Projects\Drinking Buddy\Drinking Buddy\obj\Debug\Drinking Buddy.csprojAssemblyReference.cache
+C:\Users\Jamey\Projects\Drinking Buddy\Drinking Buddy\obj\Debug\Drinking Buddy.csproj.CoreCompileInputs.cache
